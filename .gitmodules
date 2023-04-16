@@ -1,0 +1,3 @@
+[submodule "Insta-Clone-Backend"]
+	path = Insta-Clone-Backend
+	url = https://github.com/csudharshanraju964/Instaclone-backend.git
